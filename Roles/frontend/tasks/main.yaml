@@ -1,4 +1,0 @@
-- name: Frontend Setup V2
-  ansible.builtin.include_role:
-      name: common
-      tasks_from: nginx
