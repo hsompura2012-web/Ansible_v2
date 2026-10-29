@@ -1,6 +1,6 @@
 git pull
 if [[ $# -ne 1 ]] ; then
-    echo "Please enter variable name"
+    echo "Please enter variable name please"
     exit 1
 fi    
 
